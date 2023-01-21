@@ -7,9 +7,9 @@ Vamos desenvolver uma aplicação completa, de ponta a ponta, usando `TypeScript
 
 <h3 align="center">Preview Mobile</h3>
 <p align="center">
-  <img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile1.jpg">
-  <img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile2.jpg">
-  <img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile3.jpg">
+  <img width="150" alt="NLW-SETUP-IGNITE" src="./.github/Mobile1.jpg">
+  <img width="150" alt="NLW-SETUP-IGNITE" src="./.github/Mobile2.jpg">
+  <img width="150" alt="NLW-SETUP-IGNITE" src="./.github/Mobile3.jpg">
 <p>
 <h3 align="center">Preview Web</h3>
 <img width="2000" alt="NLW-SETUP-IGNITE" src="./.github/Web.PNG">

@@ -6,9 +6,11 @@ Vamos desenvolver uma aplicação completa, de ponta a ponta, usando `TypeScript
 - **TS**: TypeScript é um superset (não um framework) do JS que traz a tipagem estática ao JS, melhor inteligência e identificação de erros em nível de código antes do projeto ir para produção;
 
 <h3 align="center">Preview Mobile</h3>
-<img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile1.JPG">
-<img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile2.JPG">
-<img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile3.JPG">
+
+<img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile1.jpg">
+<img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile2.jpg">
+<img width="200" alt="NLW-SETUP-IGNITE" src="./.github/Mobile3.jpg">
+
 <h3 align="center">Preview Web</h3>
 <img width="2000" alt="NLW-SETUP-IGNITE" src="./.github/Web.PNG">
 
